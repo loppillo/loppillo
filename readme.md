@@ -13,11 +13,10 @@ Apasionado por el **backend escalable**, **frontend moderno** y el desarrollo de
 
 ---
 
-## 🗺️ Roadmap 2025
+## 🗺️ Roadmap 2026
 - ✅ Implementar sistema de notificaciones y reportes en aplicaciones académicas  
 - ✅ Integrar autenticación con roles y regiones en aplicaciones NestJS  
-- 🔜 Desarrollar **IA personalizada** para soporte técnico y educación  
-- 🔜 Mejorar el **robot humanoide** con visión por computadora y control avanzado  
+ 
 
 ---
 
