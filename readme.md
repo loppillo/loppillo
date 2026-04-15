@@ -1,6 +1,6 @@
 # 👋 Hola, soy Francisco Poblete
 
-💻 **Ingeniero de Software | Fullstack Developer | IA & Robótica** 
+💻 **Ingeniero de Software | Fullstack Developer 
 Universidad Catolica del maule Talca chile 
 Apasionado por el **backend escalable**, **frontend moderno** y el desarrollo de **sistemas inteligentes**.  
 
