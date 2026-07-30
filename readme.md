@@ -9,13 +9,18 @@ Me apasiona el diseño de **backend escalable**, el desarrollo de **frontend mod
 
 ### 🚀 Tecnologías Principales
 
-![NestJS](https://shields.io)
-![NodeJS](https://shields.io)
-![TypeScript](https://shields.io)
-![React](https://shields.io)
-![Python](https://shields.io)
-![PostgreSQL](https://shields.io)
-![Docker](https://shields.io)
+### 🚀 Tecnologías Principales
+
+<p align="left">
+  <img src="https://shields.io" alt="NestJS" />
+  <img src="https://shields.io" alt="NodeJS" />
+  <img src="https://shields.io" alt="TypeScript" />
+  <img src="https://shields.io" alt="React" />
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="PostgreSQL" />
+  <img src="https://shields.io" alt="Docker" />
+</p>
+
 
 ---
 
