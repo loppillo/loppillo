@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Francisco Poblete
 
 ### 💻 Ingeniero de Software | Fullstack Developer
-📍 Talca, Chile — Egresado de la **Universidad Católica del Maule**
+📍 Talca, Chile — Universidad Católica del Maule
 
 Me apasiona el diseño de **backend escalable**, el desarrollo de **frontend moderno** y la creación de **sistemas inteligentes**. Creo firmemente en el poder del software libre y en compartir el conocimiento con la comunidad.
 
@@ -9,9 +9,24 @@ Me apasiona el diseño de **backend escalable**, el desarrollo de **frontend mod
 
 ### 🚀 Tecnologías Principales
 
-* **Backend:** Node.js | NestJS | Python
-* **Frontend:** React | TypeScript | Tailwind CSS
-* **Bases de Datos & Cloud:** PostgreSQL | MongoDB | Docker
+![NestJS](https://shields.io)
+![NodeJS](https://shields.io)
+![TypeScript](https://shields.io)
+![React](https://shields.io)
+![Python](https://shields.io)
+![PostgreSQL](https://shields.io)
+![Docker](https://shields.io)
+
+---
+
+### ⭐ Proyecto Estrella
+
+#### 🏫 [Academic-Core-API](https://github.com) <!-- Puedes cambiar el nombre y enlace por el real -->
+> Sistema robusto e inteligente diseñado para la gestión académica, reportes automatizados y control de accesos.
+
+* 🔐 **Autenticación avanzada:** Control de acceso basado en roles (RBAC) y restricciones por regiones geográficas integrado en NestJS.
+* 📢 **Notificaciones en tiempo real:** Módulo integrado para alertas y reportes académicos automatizados.
+* 🛠️ **Arquitectura limpia:** Desarrollado bajo patrones de diseño escalables y listo para entornos de producción con Docker.
 
 ---
 
@@ -25,7 +40,7 @@ Me apasiona el diseño de **backend escalable**, el desarrollo de **frontend mod
 
 ### 🌐 Conecta Conmigo
 
-* 💼 **LinkedIn:** [Tu Nombre en LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/francisco-poblete-8b0a0b1a4/)) <!-- Reemplaza con tu enlace -->
+* 💼 **LinkedIn:** [Tu Nombre en LinkedIn](https://www.linkedin.com/in/francisco-poblete-8b0a0b1a4/) <!-- Reemplaza con tu enlace -->
 * 📧 **Correo:** [tu-correo@email.com](mailto:franpobletron@gmail.com) <!-- Reemplaza con tu correo -->
 
 ---
