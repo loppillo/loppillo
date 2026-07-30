@@ -24,3 +24,13 @@ Apasionado por el **backend escalable**, **frontend moderno** y el desarrollo de
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-poblete-8b0a0b1a4/)  
 [![Correo](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:franpobletron@gmail.com)  
 
+"Creo firmemente en el poder del software libre. Con tu apoyo en GitHub Sponsors, me ayudas a financiar el tiempo (¡y el café!) que dedico a mantener mis repositorios y documentar código para ayudar a otros programadores. Cada grano de arena cuenta."
+
+
+## 💖 Patrocinadores Oficiales
+
+¡Muchas gracias a todas las personas que apoyan mi trabajo en código abierto!
+
+<a href="https://github.com">
+  <img src="https://opencollective.com" alt="Mis Sponsors" />
+</a>
