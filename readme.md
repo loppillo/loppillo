@@ -9,8 +9,6 @@ Me apasiona el diseño de **backend escalable**, el desarrollo de **frontend mod
 
 ### 🚀 Tecnologías Principales
 
-### 🚀 Tecnologías Principales
-
 <p align="left">
   <img src="https://shields.io" alt="NestJS" />
   <img src="https://shields.io" alt="NodeJS" />
@@ -60,7 +58,8 @@ Me apasiona el diseño de **backend escalable**, el desarrollo de **frontend mod
 
 ¡Muchas gracias a todas las personas y empresas que apoyan mi trabajo!
 
-<a href="https://github.com">
-  <img src="https://opencollective.com" alt="Mis Sponsors" />
-</a>
-
+<p align="left">
+  <a href="https://github.com">
+    <img src="https://shields.io" alt="Convertirse en Sponsor" />
+  </a>
+</p>
