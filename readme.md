@@ -1,36 +1,46 @@
-# 👋 Hola, soy Francisco Poblete
+# 👋 ¡Hola! Soy Francisco Poblete
 
-💻 **Ingeniero de Software | Fullstack Developer 
-Universidad Catolica del maule Talca chile 
-Apasionado por el **backend escalable**, **frontend moderno** y el desarrollo de **sistemas inteligentes**.  
+### 💻 Ingeniero de Software | Fullstack Developer
+📍 Talca, Chile — Egresado de la **Universidad Católica del Maule**
 
----
-
-## 🚀 Tecnologías principales
-<p>
-  <img src="https://skillicons.dev/icons?i=angular,nestjs,typescript,java,python,mysql,postgres,git,docker,linux" />
-</p>
+Me apasiona el diseño de **backend escalable**, el desarrollo de **frontend moderno** y la creación de **sistemas inteligentes**. Creo firmemente en el poder del software libre y en compartir el conocimiento con la comunidad.
 
 ---
 
-## 🗺️ Roadmap 2026
-- ✅ Implementar sistema de notificaciones y reportes en aplicaciones académicas  
-- ✅ Integrar autenticación con roles y regiones en aplicaciones NestJS  
- 
+### 🚀 Tecnologías Principales
+
+* **Backend:** Node.js | NestJS | Python
+* **Frontend:** React | TypeScript | Tailwind CSS
+* **Bases de Datos & Cloud:** PostgreSQL | MongoDB | Docker
 
 ---
 
-## 🌐 Conecta conmigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-poblete-8b0a0b1a4/)  
-[![Correo](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:franpobletron@gmail.com)  
+### 🗺️ Roadmap 2026
 
-"Creo firmemente en el poder del software libre. Con tu apoyo en GitHub Sponsors, me ayudas a financiar el tiempo (¡y el café!) que dedico a mantener mis repositorios y documentar código para ayudar a otros programadores. Cada grano de arena cuenta."
+* [x] Implementar sistema de notificaciones y reportes en aplicaciones académicas.
+* [x] Integrar autenticación con roles y regiones en aplicaciones NestJS.
+* [ ] Desarrollar nuevas herramientas de código abierto para la comunidad.
 
+---
 
-## 💖 Patrocinadores Oficiales
+### 🌐 Conecta Conmigo
 
-¡Muchas gracias a todas las personas que apoyan mi trabajo en código abierto!
+* 💼 **LinkedIn:** [Tu Nombre en LinkedIn](https://linkedin.com) <!-- Reemplaza con tu enlace -->
+* 📧 **Correo:** [tu-correo@email.com](mailto:tu-correo@email.com) <!-- Reemplaza con tu correo -->
+
+---
+
+### ☕ Apoya mi trabajo en Código Abierto
+
+> *"Creo firmemente en el poder del software libre. Con tu apoyo en GitHub Sponsors, me ayudas a financiar el tiempo (¡y el café!) que dedico a mantener mis repositorios y documentar código para ayudar a otros programadores. Cada grano de arena cuenta."*
+
+👉 **[¡Conviértete en Patrocinador Oficial aquí!](https://github.com)**
+
+### 💖 Patrocinadores Oficiales
+
+¡Muchas gracias a todas las personas y empresas que apoyan mi trabajo!
 
 <a href="https://github.com">
   <img src="https://opencollective.com" alt="Mis Sponsors" />
 </a>
+
