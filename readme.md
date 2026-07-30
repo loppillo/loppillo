@@ -25,8 +25,8 @@ Me apasiona el diseño de **backend escalable**, el desarrollo de **frontend mod
 
 ### 🌐 Conecta Conmigo
 
-* 💼 **LinkedIn:** [Tu Nombre en LinkedIn](https://linkedin.com) <!-- Reemplaza con tu enlace -->
-* 📧 **Correo:** [tu-correo@email.com](mailto:tu-correo@email.com) <!-- Reemplaza con tu correo -->
+* 💼 **LinkedIn:** [Tu Nombre en LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/francisco-poblete-8b0a0b1a4/)) <!-- Reemplaza con tu enlace -->
+* 📧 **Correo:** [tu-correo@email.com](mailto:franpobletron@gmail.com) <!-- Reemplaza con tu correo -->
 
 ---
 
